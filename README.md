@@ -2,11 +2,12 @@
 
 ## I'm a Backend Developer
 
+[comment]: # (### Connect with me:)
 [comment]: # ([<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website])
 [comment]: # ([<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram])
 [comment]: # ([<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype])
 
-<br />
+[comment]: # (<br />)
 
 ### Skills and Tools
 
