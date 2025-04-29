@@ -2,9 +2,9 @@
 
 ## I'm a Backend Developer
 
-[//]:  [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[//]:  [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[//]:  [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
+[comment]: # ([<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website])
+[comment]: # ([<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram])
+[comment]: # ([<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype])
 
 <br />
 
@@ -36,6 +36,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ivanitch&color=blueviolet&style=flat-square)
 
-[website]: https://amurcoder.ru/
-[telegram]: https://t.me/amurweb
-[skype]: skype:live:amurweb?chat
+[comment]: # ([website]: https://amurcoder.ru/)
+[comment]: # ([telegram]: https://t.me/amurweb)
+[comment]: # ([skype]: skype:live:amurweb?chat)
