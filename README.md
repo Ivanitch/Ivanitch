@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Sergey 
-
-## I'm a Backend Developer
+# Hello, World! 👋
 
 [comment]: # (### Connect with me:)
 [comment]: # ([<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website])
