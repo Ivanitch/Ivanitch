@@ -23,9 +23,7 @@
 [comment]: # (<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />) 
 [comment]: # (<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/docker/docker.png" />) 
 
-<br />
-<br />
-<br />
+[comment]: # (<br />)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanitch&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
